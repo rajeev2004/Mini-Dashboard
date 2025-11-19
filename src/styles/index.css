@@ -1,0 +1,10 @@
+/* MUST BE FIRST */
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-bg font-inter text-gray-800;
+}
