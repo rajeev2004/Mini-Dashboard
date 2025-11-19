@@ -83,6 +83,5 @@ http://localhost:5173/
 
 ## 🌐 LIVE LINK
 
-```bash
+
 https://mini-dashboard-beige.vercel.app/
-```
