@@ -59,8 +59,8 @@ dynamic filtering, pagination, mock API simulation, charts, and component-driven
 ### **1. Clone the repository**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/mini-dashboard.git
-cd mini-dashboard
+git clone https://github.com/rajeev2004/Mini-Dashboard.git
+cd Mini-Dashboard
 ```
 
 ### **2. Install dependencies**
@@ -79,4 +79,10 @@ npm run dev
 
 ```bash
 http://localhost:5173/
+```
+
+## 🌐 LIVE LINK
+
+```bash
+https://mini-dashboard-beige.vercel.app/
 ```
